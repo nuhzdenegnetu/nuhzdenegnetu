@@ -1,7 +1,11 @@
 # Hi there, I'm Rustam 👋
 
-🚀 I'm a junior full-stack JavaScript developer with a passion for learning and building.  
-🧠 Always curious, always growing!
+## About Me 🙋‍♂️
+
+🚀 I am a passionate full-stack developer with experience in building scalable and efficient web applications. 
+With a strong background in computer engineering and a keen interest in modern web technologies, I strive to create high-performance, user-friendly applications.
+I have experience working in team environments, handling system administration tasks, and optimizing development workflows. 
+I am always eager to improve my skills and stay updated with the latest industry trends.
 
 ---
 
@@ -23,14 +27,16 @@
 ## 📚 Currently Learning
 
 - Deepening my knowledge of backend development and databases
-- Mastering React and building production-ready apps
-- My goal is to be fully job-ready by the end of summer! 🌞
+- Mastering React and building production-ready apps🌞
 
 ---
 
 ## 📌 Featured Project
 
 🔗 [Final Project Layout](https://github.com/nuhzdenegnetu/Final-project-layout)
+🔗 [Final Project Express.JS](https://github.com/nuhzdenegnetu/EX01/tree/master)
+🔗 [Mentoring Project](https://github.com/nuhzdenegnetu/pet-project)
+🔗 [Clone Repos](https://github.com/nuhzdenegnetu/clone-repos)
 
 ---
 
@@ -38,3 +44,5 @@
 
 - 📧 Email: **venternevertony@gmail.com**
 - 💬 Telegram: [@nuhzdenegnetu](https://t.me/nuhzdenegnetu)
+- 💬 LinkedIn: [Rustam Aslami](https://www.linkedin.com/in/nuhzdenegnetu/)
+- 📍 Locate: From(Ukraine, Odessa), Now(Romania,Bucharest)
